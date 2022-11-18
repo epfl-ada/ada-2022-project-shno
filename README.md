@@ -53,7 +53,7 @@ consider only the "important" people of the cast.
 #### Step 3: Network analysis
 
 ##### 3.A : **Community detection**  
-A network is said to have community structure if the nodes of the network can be easily grouped into (potentially overlapping) sets of nodes such that each set of nodes is densely connected internally. In the particular case of non-overlapping community finding, this implies that the network divides naturally into groups of nodes with dense connections internally and sparser connections between groups. A known algorithm to give us insights on this problem is the Girvan-Newman algorithm : it detects communities by progressively removing edges from the original network. The connected components of the remaining network are the communities    
+A network is said to have community structure if the nodes of the network can be easily grouped into sets of nodes such that each set of nodes is densely connected internally. A known algorithm to give us insights on this problem is the Girvan-Newman algorithm : it detects communities by progressively removing edges from the original network. The connected components of the remaining network are the communities    
 
 ##### 3.B: **Clustering based on actor attributes**  
 The idea would be to use an algorithm that regroup actors with similar features we extracted and engineered in the preprocessing part.
