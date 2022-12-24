@@ -97,3 +97,9 @@ Step 6: Build website and redact datastory
 |Saged Bounekhel | [sonusiety](https://github.com/sonusiety) | Step4:Ego Network, Step6:Website, Step6:Datastory |
 |Ouerghemi Naël  | [ghemDD](https://github.com/ghemDD) | Step3:Network Analysis, Step6:Datastory |
 
+For actual agreed personal contributions,
+Hamza and Nael: Ego Networks and Website.
+Saged, Omar: Graph visualizations and preparations for Hollywood and Bollywood.
+Everyone worked on the Datastory.
+
+This is the link for the data story: https://ghemdd.github.io/
